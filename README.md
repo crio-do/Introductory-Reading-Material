@@ -1,19 +1,20 @@
-# CSoD-Reading-Material
+# CSoD-Introductory-Reading-Material
 Tabel Content
 
 <!-- vscode-markdown-toc -->
 * [How to use this list?](#Howtousethislist)
 * [Tools](#Tools)
-	* [Git](#Git)
+	* [**Git**](#Git)
+	* [**Intellij**](#Intellij)
+	* [**Postman**](#Postman)
 * [Language](#Language)
-	* [Java](#Java)
-	* [NoSQL - MongoDB](#NoSQL-MongoDB)
+	* [**Java**](#Java)
 * [Framework](#Framework)
-	* [Java Spring boot](#JavaSpringboot)
+	* [**Java Spring Boot**](#JavaSpringBoot)
 * [Database](#Database)
-	* [Redis](#Redis)
-* [IDE](#IDE)
-	* [Intellij](#Intellij)
+	* [**MongoDB**](#MongoDB)
+* [Linux](#Linux)
+* [**Linux Commands**](#LinuxCommands)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -30,19 +31,19 @@ Our methodology is learning by doing, so we have also added a couple questions p
 
 
 ## <a name='Tools'></a>Tools 
-### <a name='Git'></a>Git
+### <a name='Git'></a>**Git**
 
-Official Documentation - https://git-scm.com/docs 
+Official Documentation [Text] - https://git-scm.com/docs 
 
-Git Video Tutorials - https://www.youtube.com/watch?v=mYjZtU1-u9Y&list=PL1F56EA413018EEE1
+Git Video Tutorials [Video] - https://www.youtube.com/watch?v=mYjZtU1-u9Y&list=PL1F56EA413018EEE1
 
-Guided Tutorials - https://githowto.com/
+Guided Tutorials [Text] - https://githowto.com/
 
-Online Exercise - https://www.katacoda.com/courses/git
+Online Exercise [Excercise] - https://www.katacoda.com/courses/git
 
-Crash Course - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH
+Crash Course [Video] - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH
 
-Awesome Git List - https://github.com/dictcp/awesome-git
+Awesome Git List [Text] - https://github.com/dictcp/awesome-git
 		
 **What should you learn? Prerequisite for the program**
 - [ ] How to clone a Git repository?
@@ -56,18 +57,44 @@ Awesome Git List - https://github.com/dictcp/awesome-git
 - [ ] How to stash changes?
 			
 <!-- ##   <a name='Postman'></a>2.2. Postman  -->
+### <a name='Intellij'></a>**Intellij**
+Official Documentation [Text] - https://www.jetbrains.com/idea/documentation/
+
+Shortcuts [Text] - https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+How to debug Java programs [Video] - https://www.youtube.com/watch?v=CmPJzEqFS4s
+
+How to be more productive with Intellij [Video] - 
+https://www.youtube.com/watch?v=CmPJzEqFS4s
+
+		
+**What should you learn? Prerequisite for the program**
+- [ ] How to run and debug Java programs?
+- [ ] Basic shortcuts for productivity
+- [ ] How to import project, build programs using Gradle
+
+### <a name='Postman'></a>**Postman**
+
+Official Documentation [Text] - https://learning.getpostman.com/docs/postman/launching_postman/installation_and_updates/
+
+Crash Course [Video] - https://www.youtube.com/watch?v=D26eEw7dI-c
+
+**What should you learn? Prerequisite for the program**
+- [ ] How to use Postman GUI to send HTTP requests?
+- [ ] How to create collections in Postman?
+- [ ] How to import Curl commands in Postman?
 
 
 ## <a name='Language'></a>Language
-### <a name='Java'></a>Java
+### <a name='Java'></a>**Java**
 
-Official Documentation - https://docs.oracle.com/javase/tutorial/index.html
+Official Documentation [Text] - https://docs.oracle.com/javase/tutorial/index.html
 
-Java Crash Course - https://www.youtube.com/watch?v=WPvGqX-TXP0
+Java Crash Course [Video] - https://www.youtube.com/watch?v=WPvGqX-TXP0
 
-Java Detailed Course - https://www.youtube.com/watch?v=n-xAqcBCws4
+Java Detailed Course [Video] - https://www.youtube.com/watch?v=n-xAqcBCws4
 
-Awesome Java List - https://github.com/akullpp/awesome-java
+Awesome Java List [Github] - https://github.com/akullpp/awesome-java
 		
 **What should you learn? Prerequisite for the program**
 - [ ] How to run Java program?
@@ -79,25 +106,12 @@ Awesome Java List - https://github.com/akullpp/awesome-java
 <!-- ## Javascript
 Official documentation - https://developer.mozilla.org/bm/docs/Web/JavaScript -->
 
-
-### <a name='NoSQL-MongoDB'></a>NoSQL - MongoDB
-
-Official Documentation - https://docs.mongodb.com/
-
-Crash Course - https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz_LVvRfdt8_W0dV311Xa8SayfCY
-
-
-**What should you learn? Prerequisite for the program**
-- [ ] How to connect to MongoDB database using CMD, GUI Clients like Robomongo? 
-- [ ] How to write basic Mongodb Queries to find, delete, update documents in MongoDb?
-- [ ] How to use Grouping, Sorting, Selection, Aggregation functions in Mongodb?
-
 ## <a name='Framework'></a>Framework 
-### <a name='JavaSpringboot'></a>Java Spring boot
+### <a name='JavaSpringBoot'></a>**Java Spring Boot**
 
-Official Documentation - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+Official Documentation [Text] - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
-Rest API - https://spring.io/guides/gs/rest-service/
+Rest API [Text] - https://spring.io/guides/gs/rest-service/
 
 **What should you learn? Prerequisite for the program**
 - [ ] How to create APIs using Java Spring Boot?
@@ -106,29 +120,28 @@ Rest API - https://spring.io/guides/gs/rest-service/
 - [ ] What is MVC Pattern? How to write controllers, models?
 	
 ## <a name='Database'></a>Database
-### <a name='Redis'></a>Redis
-Official Documentation - https://redis.io/documentation
+### <a name='MongoDB'></a>**MongoDB**
 
-Interactive Environment - https://www.katacoda.com/michaelmior/scenarios/redis
+Official Documentation [Text]- https://docs.mongodb.com/
+
+Crash Course [Video] - https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz_LVvRfdt8_W0dV311Xa8SayfCY
 
 
 **What should you learn? Prerequisite for the program**
-- [ ] How to access Redis database using Command Line?
-- [ ] How add, find, delete, update data in Redis?
+- [ ] How to connect to MongoDB database using CMD, GUI Clients like Robomongo? 
+- [ ] How to write basic Mongodb Queries to find, delete, update documents in MongoDb?
+- [ ] How to use Grouping, Sorting, Selection, Aggregation functions in Mongodb?
 
-## <a name='IDE'></a>IDE 
-### <a name='Intellij'></a>Intellij
-Official Documentation - https://www.jetbrains.com/idea/documentation/
 
-Shortcuts - https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+## <a name='Linux'></a>Linux 
+## <a name='LinuxCommands'></a>**Linux Commands**
 
-How to debug Java programs - https://www.youtube.com/watch?v=CmPJzEqFS4s
+List of Linux Commands [Text] - https://ss64.com/bash/
 
-How to be more productive with Intellij - 
-https://www.youtube.com/watch?v=CmPJzEqFS4s
+Basic Linux Commands [Video] - https://www.youtube.com/watch?v=cBokz0LTizk
 
-		
+
 **What should you learn? Prerequisite for the program**
-- [ ] How to run and debug Java programs?
-- [ ] Basic shortcuts for productivity
-- [ ] How to import project, build programs using Gradle
+- [ ] How to create files and folders?
+- [ ] How to copy, move, delete files and folders?
+- [ ] How to run basic networking commands like ipconfig, netstat etc
