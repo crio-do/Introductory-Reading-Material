@@ -159,6 +159,6 @@ JUnit tutorial [Video] - https://www.youtube.com/watch?v=o5k9NOR9lrI
 Importance of Unit Testing [Article] - https://dzone.com/articles/top-8-benefits-of-unit-testing
 
 **What should you learn? Prerequisite for the program**
-- [] How to write test cases?
-- [] How to test functions?
-- [] Importance of Unit testing
+- [ ] How to write test cases?
+- [ ] How to test functions?
+- [ ] Importance of Unit testing
