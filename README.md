@@ -32,7 +32,7 @@ We have shared few links which you can go through before joining program ( if yo
 
 Our methodology is learning by doing, so we have also added a couple questions per topic, while learning from the link you have to keep in mind if you are able to answer the question or not. If there is something that you did not understand, try finding the answer of this question on your own from Google. This will help you to develop a skill “Finding on your own or learning by doing” which is extremely critical skills for Software developers. 
 
-## <a name='Whatwerecommendyoutoknowbeforejoiningtheprogram'></a>What we recommend you to know before joining the program?
+## <a name='Whatwerecommendyoutoknowbeforejoiningtheprogram'></a>What do we recommend you to know before joining the program?
 
 <table>
 	<tbody >
