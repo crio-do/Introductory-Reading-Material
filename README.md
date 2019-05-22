@@ -134,7 +134,7 @@ Crash Course [Video] - https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz
 
 
 ## <a name='Linux'></a>Linux 
-## <a name='LinuxCommands'></a>**Linux Commands**
+### <a name='LinuxCommands'></a>**Linux Commands**
 
 List of Linux Commands [Text] - https://ss64.com/bash/
 
