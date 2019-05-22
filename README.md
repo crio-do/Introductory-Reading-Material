@@ -1,7 +1,8 @@
 # CSoD-Reading-Material
-Prerequisites for CSoD participants
+Tabel Content
 
 <!-- vscode-markdown-toc -->
+* [How to use this list?](#Howtousethislist)
 * [Tools](#Tools)
 	* [Git](#Git)
 * [Language](#Language)
@@ -21,6 +22,12 @@ Prerequisites for CSoD participants
 <!-- /vscode-markdown-toc -->
 
 
+## <a name='Howtousethislist'></a>How to use this list?
+Our idea behind creating this list is to enable you to be ready for the CSoD program. 
+We have shared few links which you can go through before joining program ( if you want to be efficient during the program ). 
+
+Our methodology is learning by doing, so we have also added a couple questions per topic, while learning from the link you have to keep in mind if you are able to answer the question or not. If there is something that you did not understand, try finding the answer of this question on your own from Google. This will help you to develop a skill “Finding on your own or learning by doing” which is extremely critical skills for Software developers. 
+
 
 ## <a name='Tools'></a>Tools 
 ### <a name='Git'></a>Git
@@ -31,20 +38,22 @@ Git Video Tutorials - https://www.youtube.com/watch?v=mYjZtU1-u9Y&list=PL1F56EA4
 
 Guided Tutorials - https://githowto.com/
 
-Online exercise - https://www.katacoda.com/courses/git
+Online Exercise - https://www.katacoda.com/courses/git
 
-Crash course - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH
+Crash Course - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH
 
-Awesome Git - https://github.com/dictcp/awesome-git
+Awesome Git List - https://github.com/dictcp/awesome-git
 		
 **What should you learn? Prerequisite for the program**
-- [ ] How to clone a Git project?
+- [ ] How to clone a Git repository?
 - [ ] How to pull/push to remote repository?
-- [ ] How to check the status of file?
-- [ ] How to create and switch to branch?
-- [ ] How to connect to a remote repository?
+- [ ] How to check the status of the repository?
+- [ ] How to create and switch to a branch?
+- [ ] How to connect to a remote a repository?
+- [ ] How to merge two branch?
 - [ ] How to resolve merge conflicts?
-- [ ] How to commit and push?
+- [ ] How to commit changes?
+- [ ] How to stash changes?
 			
 <!-- ##   <a name='Postman'></a>2.2. Postman  -->
 
@@ -52,20 +61,20 @@ Awesome Git - https://github.com/dictcp/awesome-git
 ## <a name='Language'></a>Language
 ### <a name='Java'></a>Java
 
-Official documentation - https://docs.oracle.com/javase/tutorial/index.html
+Official Documentation - https://docs.oracle.com/javase/tutorial/index.html
 
 Java Crash Course - https://www.youtube.com/watch?v=WPvGqX-TXP0
 
 Java Detailed Course - https://www.youtube.com/watch?v=n-xAqcBCws4
 
-Awesome Java - https://github.com/akullpp/awesome-java
+Awesome Java List - https://github.com/akullpp/awesome-java
 		
 **What should you learn? Prerequisite for the program**
 - [ ] How to run Java program?
-- [ ] What is class, function?
-- [ ] How to write loops, interfaces, classes, switch cases?
-- [ ] What is inheritance, polymorphism?
-- [ ] How to import packages, call methods, initiate classes? 
+- [ ] What is class, objects, functions and how to create and use them in program?
+- [ ] How to write loops, interfaces, switch cases?
+- [ ] What is inheritance, polymorphism and how to use it?
+- [ ] What are collections in Java, primitive data types? 
 
 <!-- ## Javascript
 Official documentation - https://developer.mozilla.org/bm/docs/Web/JavaScript -->
@@ -75,8 +84,11 @@ Official documentation - https://developer.mozilla.org/bm/docs/Web/JavaScript --
 
 Official Documentation - https://docs.mongodb.com/
 
+Crash Course - https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz_LVvRfdt8_W0dV311Xa8SayfCY
+
+
 **What should you learn? Prerequisite for the program**
-- [ ] How to connect to MongoDB database using CMD, GUI Client - Robomongo? 
+- [ ] How to connect to MongoDB database using CMD, GUI Clients like Robomongo? 
 - [ ] How to write basic Mongodb Queries to find, delete, update documents in MongoDb?
 - [ ] How to use Grouping, Sorting, Selection, Aggregation functions in Mongodb?
 
