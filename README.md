@@ -145,3 +145,18 @@ Basic Linux Commands [Video] - https://www.youtube.com/watch?v=cBokz0LTizk
 - [ ] How to create files and folders?
 - [ ] How to copy, move, delete files and folders?
 - [ ] How to run basic networking commands like ipconfig, netstat etc
+
+## Unit Testing
+
+### **JUnit**
+
+Official Documentation [Text] - https://junit.org/junit4/javadoc/latest/
+
+JUnit tutorial [Video] - https://www.youtube.com/watch?v=o5k9NOR9lrI
+
+Importance of Unit Testing [Article] - https://dzone.com/articles/top-8-benefits-of-unit-testing
+
+**What should you learn? Prerequisite for the program**
+- [] How to write test cases?
+- [] How to test functions?
+- [] Importance of Unit testing
