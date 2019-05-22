@@ -2,11 +2,27 @@
 Prerequisites for CSoD participants
 
 <!-- vscode-markdown-toc -->
-* 1. [2.1. Git](#Git)
-* 2. [2.2. Postman](#Postman)
+- [CSoD-Reading-Material](#csod-reading-material)
+- [Tools](#tools)
+  - [<a name='Git'></a> Git](#a-namegita-git)
+    - [<a name='WhatshouldyoulearnPrerequisitefortheprogram'></a>What should you learn? Prerequisite for the program](#a-namewhatshouldyoulearnprerequisitefortheprogramawhat-should-you-learn-prerequisite-for-the-program)
+- [Language](#language)
+  - [<a name='Java'></a>Java](#a-namejavaajava)
+    - [<a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program](#a-namewhatshouldyoulearnprerequisitefortheprogram-1awhat-should-you-learn-prerequisite-for-the-program)
+  - [<a name='NoSQL-MongoDB'></a>NoSQL - MongoDB](#a-namenosql-mongodbanosql---mongodb)
+    - [<a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program](#a-namewhatshouldyoulearnprerequisitefortheprogram-1awhat-should-you-learn-prerequisite-for-the-program-1)
+- [Framework](#framework)
+  - [<a name='JavaSpringboot'></a>Java Spring boot](#a-namejavaspringbootajava-spring-boot)
+    - [<a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program](#a-namewhatshouldyoulearnprerequisitefortheprogram-1awhat-should-you-learn-prerequisite-for-the-program-2)
+- [Database](#database)
+  - [<a name='Redis'></a>Redis](#a-nameredisaredis)
+    - [<a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program](#a-namewhatshouldyoulearnprerequisitefortheprogram-1awhat-should-you-learn-prerequisite-for-the-program-3)
+- [IDE](#ide)
+  - [<a name='Intellij'></a>Intellij](#a-nameintellijaintellij)
+    - [<a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program](#a-namewhatshouldyoulearnprerequisitefortheprogram-1awhat-should-you-learn-prerequisite-for-the-program-4)
 
 <!-- vscode-markdown-toc-config
-	numbering=true
+	numbering=false
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
@@ -14,7 +30,7 @@ Prerequisites for CSoD participants
 
 
 #  Tools 
-##  <a name='Git'></a>2.1. Git
+## <a name='Git'></a> Git
 
 Official Documentation - https://git-scm.com/docs 
 
@@ -28,7 +44,7 @@ Crash course - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1
 
 Awesome Git - https://github.com/dictcp/awesome-git
 		
-### What should you learn? Prerequisite for the program 
+### <a name='WhatshouldyoulearnPrerequisitefortheprogram'></a>What should you learn? Prerequisite for the program 
 - [ ] How to clone a Git project?
 - [ ] How to pull/push to remote repository?
 - [ ] How to check the status of file?
@@ -41,7 +57,7 @@ Awesome Git - https://github.com/dictcp/awesome-git
 
 
 # Language
-## Java
+## <a name='Java'></a>Java
 
 Official documentation - https://docs.oracle.com/javase/tutorial/index.html
 
@@ -51,7 +67,7 @@ Java Detailed Course - https://www.youtube.com/watch?v=n-xAqcBCws4
 
 Awesome Java - https://github.com/akullpp/awesome-java
 		
-### What should you learn? Prerequisite for the program 
+### <a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program 
 - [ ] How to run Java program?
 - [ ] What is class, function?
 - [ ] How to write loops, interfaces, classes, switch cases?
@@ -62,41 +78,41 @@ Awesome Java - https://github.com/akullpp/awesome-java
 Official documentation - https://developer.mozilla.org/bm/docs/Web/JavaScript -->
 
 
-## NoSQL - MongoDB
+## <a name='NoSQL-MongoDB'></a>NoSQL - MongoDB
 
 Official Documentation - https://docs.mongodb.com/
 
-### What should you learn? Prerequisite for the program
+### <a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program
 - [ ] How to connect to MongoDB database using CMD, GUI Client - Robomongo? 
 - [ ] How to write basic Mongodb Queries to find, delete, update documents in MongoDb?
 - [ ] How to use Grouping, Sorting, Selection, Aggregation functions in Mongodb?
 
 # Framework 
-## Java Spring boot
+## <a name='JavaSpringboot'></a>Java Spring boot
 
 Official Documentation - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
 Rest API - https://spring.io/guides/gs/rest-service/
 
-### What should you learn? Prerequisite for the program
+### <a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program
 - [ ] How to create APIs using Java Spring Boot?
 - [ ] What is REST API?
 - [ ] How to write GET/POST/DELETE/PUT/PATCH APIs?
 - [ ] What is MVC Pattern? How to write controllers, models?
 	
 # Database
-## Redis
+## <a name='Redis'></a>Redis
 Official Documentation - https://redis.io/documentation
 
 Interactive Environment - https://www.katacoda.com/michaelmior/scenarios/redis
 
 
-### What should you learn? Prerequisite for the program
+### <a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program
 - [ ] How to access Redis database using Command Line?
 - [ ] How add, find, delete, update data in Redis?
 
 # IDE 
-## Intellij
+## <a name='Intellij'></a>Intellij
 Official Documentation - https://www.jetbrains.com/idea/documentation/
 
 Shortcuts - https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
@@ -107,7 +123,7 @@ How to be more productive with Intellij -
 https://www.youtube.com/watch?v=CmPJzEqFS4s
 
 		
-### What should you learn? Prerequisite for the program
+### <a name='WhatshouldyoulearnPrerequisitefortheprogram-1'></a>What should you learn? Prerequisite for the program
 - [ ] How to run and debug Java programs?
 - [ ] Basic shortcuts for productivity
 - [ ] How to import project, build programs using Gradle
