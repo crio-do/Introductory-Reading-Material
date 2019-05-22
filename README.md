@@ -3,6 +3,7 @@ Tabel Content
 
 <!-- vscode-markdown-toc -->
 * [How to use this list?](#Howtousethislist)
+* [What we recommend you to know before joining the program?](#Whatwerecommendyoutoknowbeforejoiningtheprogram)
 * [Tools](#Tools)
 	* [**Git**](#Git)
 	* [**Intellij**](#Intellij)
@@ -30,6 +31,76 @@ Our idea behind creating this list is to enable you to be ready for the CSoD pro
 We have shared few links which you can go through before joining program ( if you want to be efficient during the program ). 
 
 Our methodology is learning by doing, so we have also added a couple questions per topic, while learning from the link you have to keep in mind if you are able to answer the question or not. If there is something that you did not understand, try finding the answer of this question on your own from Google. This will help you to develop a skill “Finding on your own or learning by doing” which is extremely critical skills for Software developers. 
+
+## <a name='Whatwerecommendyoutoknowbeforejoiningtheprogram'></a>What we recommend you to know before joining the program?
+
+<table>
+	<tbody >
+		<tr>
+			<td>
+			<p dir="ltr"><strong>Git</strong></p>
+			</td>
+			<td>
+			<ul>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to clone a Git project?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to pull/push to a remote repository?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to check the status of a file?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to create and switch to branch?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to connect to a remote repository?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to resolve merge conflicts?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to commit and push?</strong></p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p dir="ltr"><strong>Java</strong></p>
+			</td>
+			<td>
+			<ul>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to run a Java program?</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>How to use class, interface, static, annotations, collections etc.</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>Practice at least 30 Java problems here - <a href="https://www.hackerrank.com/domains/java">https://www.hackerrank.com/domains/java</a></strong></p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p dir="ltr"><strong>Linux</strong></p>
+			</td>
+			<td>
+			<ul>
+				<li dir="ltr">
+				<p dir="ltr"><strong>Practice linux commands - ls, cd, pwd, ps, netstat, ifconfig, grep, find, ping, telnet, cat</strong></p>
+				</li>
+				<li dir="ltr">
+				<p dir="ltr"><strong>One terminal editor - emacs or vi or nano</strong></p>
+				</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 ## <a name='Tools'></a>Tools 
