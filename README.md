@@ -132,7 +132,7 @@ Official Documentation [Text] - https://www.jetbrains.com/idea/documentation/
 
 Shortcuts [Text] - https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
 
-How to debug Java programs [Video] - https://www.youtube.com/watch?v=CmPJzEqFS4s
+How to debug Java programs [Video] - https://www.youtube.com/watch?v=1bCgzjatcr4
 
 How to be more productive with Intellij [Video] - 
 https://www.youtube.com/watch?v=CmPJzEqFS4s
