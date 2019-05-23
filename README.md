@@ -27,10 +27,7 @@ Tabel Content
 
 
 ## <a name='Howtousethislist'></a>How to use this list?
-Our idea behind creating this list is to enable you to be ready for the CSoD program. 
-We have shared few links which you can go through before joining program ( if you want to be efficient during the program ). 
-
-Our methodology is learning by doing, so we have also added a couple questions per topic, while learning from the link you have to keep in mind if you are able to answer the question or not. If there is something that you did not understand, try finding the answer of this question on your own from Google. This will help you to develop a skill “Finding on your own or learning by doing” which is extremely critical skills for Software developers. 
+Our idea behind creating this list is to enable you to be get ready for CSoD. We have shared a few links for you to go through before joining program. Our methodology is to learn by doing, so we have also added a couple of questions per topic, which you have to know the answer to after going through that topic. If there is something you did not understand or could not answer, try finding the answer to the question on your own. This will help you to develop the skill of “Finding your way on your own or learning by doing” which is an extremely critical skills for software developers.
 
 ## <a name='Whatwerecommendyoutoknowbeforejoiningtheprogram'></a>What do we recommend you to know before joining the program?
 
