@@ -214,6 +214,8 @@ List of Linux Commands [Text] - https://ss64.com/bash/
 
 Basic Linux Commands [Video] - https://www.youtube.com/watch?v=cBokz0LTizk
 
+Udacity - shell workshop [Course]- https://www.udacity.com/course/shell-workshop--ud206
+
 
 **What should you learn? Prerequisite for the program**
 - [ ] How to create files and folders?
