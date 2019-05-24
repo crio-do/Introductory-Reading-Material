@@ -116,11 +116,11 @@ Crash Course [Video] - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz
 Awesome Git List [Text] - https://github.com/dictcp/awesome-git
 		
 **What should you learn? Prerequisite for the program**
-- [ ] How to clone a Git repository?
-- [ ] How to pull/push to remote repository?
+- [X] How to clone a Git repository?
+- [X] How to pull/push to remote repository?
 - [X] How to check the status of the repository?
-- [ ] How to create and switch to a branch?
-- [ ] How to connect to a remote a repository?
+- [X] How to create and switch to a branch?
+- [X] How to connect to a remote a repository?
 - [ ] How to merge two branch?
 - [ ] How to resolve merge conflicts?
 - [X] How to commit changes?
