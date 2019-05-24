@@ -121,8 +121,8 @@ Awesome Git List [Text] - https://github.com/dictcp/awesome-git
 - [X] How to check the status of the repository?
 - [X] How to create and switch to a branch?
 - [X] How to connect to a remote a repository?
-- [ ] How to merge two branch?
-- [ ] How to resolve merge conflicts?
+- [X] How to merge two branch?
+- [X] How to resolve merge conflicts?
 - [X] How to commit changes?
 - [ ] How to stash changes?
 			
