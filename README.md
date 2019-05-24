@@ -116,7 +116,11 @@ Crash Course [Video] - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz
 Awesome Git List [Text] - https://github.com/dictcp/awesome-git
 
 Udacity - How to use Git and Github [Video] - https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p
-		
+
+Udacity - Version control with Git [Course] - https://www.udacity.com/course/version-control-with-git--ud123
+
+Udacity - Github and collaboration [Course] - https://www.udacity.com/course/github-collaboration--ud456
+
 **What should you learn? Prerequisite for the program**
 - [ ] How to clone a Git repository?
 - [ ] How to pull/push to remote repository?
