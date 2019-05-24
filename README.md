@@ -114,6 +114,8 @@ Online Exercise [Excercise] - https://www.katacoda.com/courses/git
 Crash Course [Video] - https://www.youtube.com/watch?v=r63f51ce84A&list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH
 
 Awesome Git List [Text] - https://github.com/dictcp/awesome-git
+
+Udacity - How to use Git and Github [Video] - https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p
 		
 **What should you learn? Prerequisite for the program**
 - [ ] How to clone a Git repository?
