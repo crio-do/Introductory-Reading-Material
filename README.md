@@ -160,6 +160,8 @@ Crash Course [Video] - https://www.youtube.com/watch?v=D26eEw7dI-c
 
 Official Documentation [Text] - https://docs.oracle.com/javase/tutorial/index.html
 
+Java Beginner Crash Course [Video] - https://www.youtube.com/watch?v=3u1fu6f8Hto&t=54s
+
 Java Crash Course [Video] - https://www.youtube.com/watch?v=WPvGqX-TXP0
 
 Java Detailed Course [Video] - https://www.youtube.com/watch?v=n-xAqcBCws4
