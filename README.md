@@ -151,10 +151,15 @@ Official Documentation [Text] - https://learning.getpostman.com/docs/postman/lau
 
 Crash Course [Video] - https://www.youtube.com/watch?v=D26eEw7dI-c
 
+cURL to postman  [Video] - https://www.youtube.com/watch?v=v1T_5AbdlNc
+
+postman to cURL  [Video] - https://www.youtube.com/watch?v=0LFKxiATLNQ
+(skip to 10:40 and see how to get a cURL code snippet from postman)
+
 **What should you learn? Prerequisite for the program**
 - [ ] How to use Postman GUI to send HTTP requests?
 - [ ] How to create collections in Postman?
-- [ ] How to import Curl commands in Postman?
+- [ ] How to import cURL commands in Postman?
 
 
 ## <a name='Language'></a>Language
