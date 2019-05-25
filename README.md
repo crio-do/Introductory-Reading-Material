@@ -224,10 +224,6 @@ Basic Linux Commands [Video] - https://www.youtube.com/watch?v=cBokz0LTizk
 
 ### <a name='JUnit'></a>**JUnit**
 
-Official Documentation [Text] - https://junit.org/junit4/javadoc/latest/
-
-JUnit tutorial [Video] - https://www.youtube.com/watch?v=o5k9NOR9lrI
-
 Importance of Unit Testing [Article] - https://dzone.com/articles/top-8-benefits-of-unit-testing
 
 **What should you learn? Prerequisite for the program**
