@@ -212,6 +212,8 @@ Crash Course [Video] - https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz
 
 List of Linux Commands [Text] - https://ss64.com/bash/
 
+List of Basic Linux Commands [Text] - https://www.hongkiat.com/blog/basic-linux-commands
+
 Basic Linux Commands [Video] - https://www.youtube.com/watch?v=cBokz0LTizk
 
 
