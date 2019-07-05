@@ -1,4 +1,4 @@
-# CSoD-Introductory-Reading-Material
+# Introductory-Reading-Material
 Tabel Content
 
 <!-- vscode-markdown-toc -->
@@ -27,7 +27,7 @@ Tabel Content
 
 
 ## <a name='Howtousethislist'></a>How to use this list?
-Our idea behind creating this list is to enable you to get ready for CSoD. We have shared a few links for you to go through before joining the program. Our methodology is to learn by doing, so we have also added a couple of questions per topic, which you have to know the answer to after going through that topic. If there is something you did not understand or could not answer, try finding the answer to the question on your own. This will help you to develop the skill of “Finding your way on your own or learning by doing” which is an extremely critical skill for software developers.
+Our idea behind creating this list is to enable you to get ready for Micro-Experience. We have shared a few links for you to go through before joining the program. Our methodology is to learn by doing, so we have also added a couple of questions per topic, which you have to know the answer to after going through that topic. If there is something you did not understand or could not answer, try finding the answer to the question on your own. This will help you to develop the skill of “Finding your way on your own or learning by doing” which is an extremely critical skill for software developers.
 
 ## <a name='Whatwerecommendyoutoknowbeforejoiningtheprogram'></a>What do we recommend you to know before joining the program?
 
